@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "practice": "apps/practice",
-    "practice-e2e": "apps/practice-e2e"
+    "practice-e2e": "apps/practice-e2e",
+    "test-ui": "libs/test-ui"
   }
 }
